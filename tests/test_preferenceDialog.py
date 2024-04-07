@@ -1,3 +1,4 @@
+
 from unittest import TestCase
 from halo.Preference import PreferenceDialog
 from halo import settings

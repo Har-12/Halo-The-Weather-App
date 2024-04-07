@@ -1,0 +1,40 @@
+#time{
+    font-family: Lato, sans-serif;
+    font-weight: bolder;
+    font-size: 18px;
+    color: white;
+}
+#t_follow{
+    font-family: Lato, sans-serif;
+    font-weight: bolder;
+    font-size: 11px;
+    color: white;
+}
+#date{
+    font-family: Lato, sans-serif;
+    font-size: 16px;
+    color: white;
+}
+#status{
+    font-family: Lato, sans-serif;
+    font-weight: bold;
+    font-size: 34px;
+    color: white;
+}
+
+#place{
+    font-family: Lato, sans-serif;
+    font-size: 15px;
+    color: white;
+}
+#temperature{
+    font-family: Lato, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+}
+#f_time, #f_temp{
+    font-family: Lato, sans-serif;
+    font-size: 14px;
+    color: white;
+}

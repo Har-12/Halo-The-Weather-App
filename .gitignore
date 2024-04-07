@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.eggs/
+.idea/
+Halo.egg-info/
+__pycache__/
+venv/
+dist/
+build/
+deb_dist/
+sphinx/
+*.tar.gz
+*.sqlite
